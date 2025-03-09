@@ -14,6 +14,10 @@
   - [VPN Setup in Virtual Machine ](https://github.com/Slipxstream/Setting-UP-A-VPN-)
 - <b>Low Level Programming(C Programming)</b>
   - [Labs in C](https://github.com/Slipxstream/alx-low_level_programming)
+- <b>Higher Level Programming(Python Programming)</b>
+  - [Labs in Python](https://github.com/Slipxstream/alx-higher_level_programming)
+- <b>System Engineering DevOps(Shell Scripting)</b>
+  - [Labs in Powershell](https://github.com/Slipxstream/alx-system_engineering-devops)
 
 <h2>📩Contact Me</h2>
 
